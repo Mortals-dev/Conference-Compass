@@ -1,7 +1,7 @@
 ---
 configuration: null
-name: "mobile attendee"
-id: "mobile"
+name: "Event iOS Attendee App"
+id: ""
 type:
   name: "Mobile"
   goals: null

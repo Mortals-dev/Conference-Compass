@@ -1,6 +1,6 @@
 ---
 configuration: null
-name: "mobile attendee"
+name: "A mobile application"
 id: "mobile"
 type:
   name: "Mobile"
