@@ -1,0 +1,20 @@
+---
+configuration: null
+name: "MyLeave RequestApp"
+id: "com.sap.leaverequest"
+type:
+  name: "Mobile"
+  goals: null
+features: null
+goals: null
+application: null
+source:
+  url: ""
+  type: null
+description:
+  title: null
+  details: "anand MyLeave RequestApp01"
+  icon: null
+  background: null
+  moreInfo: null
+  other: null
