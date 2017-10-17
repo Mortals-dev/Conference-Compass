@@ -16,7 +16,8 @@ source:
 description:
   title: null
   details: "An hybrid mobile app built with combination of technologies."
-  icon: null
+  icon:
+  - "sap-icon://desktop-mobile"
   background: null
   moreInfo: null
   other: null
