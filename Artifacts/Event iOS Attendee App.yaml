@@ -18,7 +18,8 @@ description:
   details: "iOS Attendee app is  a simple applicationl that lets you organize and\
     \ communicate with event attendees effortlessly and also view a newsfeed, build\
     \ agendas, create surveys and upload floor plans"
-  icon: null
+  icon:
+  - "sap-icon://desktop-mobile"
   background: null
   moreInfo: null
   other: null
