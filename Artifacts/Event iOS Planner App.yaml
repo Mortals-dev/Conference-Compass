@@ -18,7 +18,7 @@ description:
   details: "iOS Planner app for creating new plans, organize and assign tasks, share\
     \ files and get updates on progress"
   icon:
-  - "sap-icon://desktop-mobile"
+  - "sap-icon://iphone"
   background: null
   moreInfo: null
   other: null
