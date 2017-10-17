@@ -1,5 +1,4 @@
-### Event Connect
-
+###  ConferenceCompass
 #### Scope
 This solution addresses two user roles - *Event planner* who can create and manage events and *Event attendee* who can find information about the events, plan agenda, connect with other attendees.
   
