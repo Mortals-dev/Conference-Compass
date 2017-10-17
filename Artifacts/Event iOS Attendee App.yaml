@@ -19,7 +19,7 @@ description:
     \ communicate with event attendees effortlessly and also view a newsfeed, build\
     \ agendas, create surveys and upload floor plans"
   icon:
-  - "sap-icon://desktop-mobile"
+  - "sap-icon://iphone"
   background: null
   moreInfo: null
   other: null
