@@ -3,12 +3,8 @@ configuration:
 - key: "launchUrl"
   value: "https://github.com/Mortals-dev/iOS-Hybrid-App"
 name: "Event iOS hybrid App"
-id: "Event-iOS-hybrid-App"
-type:
-  name: "iOS Hybrid Mobile Project"
-  goals: null
+artifactTypeId: "iOS Hybrid Mobile Project"
 features: null
-goals: null
 application: null
 source:
   url: "https://github.com/Mortals-dev/iOS-Hybrid-App"
