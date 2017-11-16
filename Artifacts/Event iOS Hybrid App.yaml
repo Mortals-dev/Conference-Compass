@@ -3,7 +3,7 @@ configuration:
 - key: "launchUrl"
   value: ""
 name: "Event iOS Hybrid App"
-artifactTypeId: "Mobile"
+artifactTypeId: "Hybrid App"
 features: null
 application: null
 source:
