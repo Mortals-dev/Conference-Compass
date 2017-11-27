@@ -163,3 +163,12 @@
     description: null
     services: null
   serviceBindings: null
+- configuration: null
+  id: "abcd-6fa94396-381d-4a6f-aa82-c3ad02e952c212qqqq2"
+  name: "FP123111"
+  featureType:
+    id: "User Feedback"
+    categoryId: null
+    description: null
+    services: null
+  serviceBindings: null
