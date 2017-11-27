@@ -1,5 +1,6 @@
 ---
-- id: "aec38789-0d02-4b27-b974-2c37704d5ce4"
+- configuration: null
+  id: "aec38789-0d02-4b27-b974-2c37704d5ce4"
   name: "F4"
   featureType:
     id: "Data Access"
@@ -19,8 +20,8 @@
     plan: "default"
     url: null
     parameters: null
-  configuration: null
-- id: "692fd4f7-f5f3-445e-a6e3-bae6b99a7cf7"
+- configuration: null
+  id: "692fd4f7-f5f3-445e-a6e3-bae6b99a7cf7"
   name: "F7"
   featureType:
     id: "Notifications"
@@ -32,8 +33,8 @@
     plan: "default"
     url: null
     parameters: null
-  configuration: null
-- id: "7eaf2db3-ccd7-4a2b-af12-9c9e9ec31936"
+- configuration: null
+  id: "7eaf2db3-ccd7-4a2b-af12-9c9e9ec31936"
   name: "F82"
   featureType:
     id: "Mobile Analytics"
@@ -45,4 +46,12 @@
     plan: "default"
     url: null
     parameters: null
-  configuration: null
+- configuration: null
+  id: "6fa94396-381d-4a6f-aa82-c3ad02e952c2"
+  name: "F51"
+  featureType:
+    id: "User Feedback"
+    categoryId: null
+    description: null
+    services: null
+  serviceBindings: null
