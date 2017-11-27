@@ -2,6 +2,8 @@
 project:
   name: "Event Compass"
   version: "0.1"
+  fatureTypeId:
+  - "User Feedback"
   status:
     title: "Published"
     details: null
