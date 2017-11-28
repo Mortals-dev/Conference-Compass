@@ -9,6 +9,7 @@ project:
   - "abcd-6fa94396-381d-4a6f-aa82-c3ad02e952c212qqqq2"
   - "abcd-raghav2"
   - "abcd-raghav2-msp"
+  - "abcd-raghav2-msp"
   status:
     title: "Published"
     details: null
