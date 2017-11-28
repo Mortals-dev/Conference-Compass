@@ -280,3 +280,12 @@
     description: null
     services: null
   serviceBindings: null
+- configuration: null
+  id: null
+  name: "FP123111"
+  featureType:
+    id: "User Feedback"
+    categoryId: null
+    description: null
+    services: null
+  serviceBindings: null
