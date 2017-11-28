@@ -334,3 +334,12 @@
     description: null
     services: null
   serviceBindings: null
+- configuration: null
+  id: "abcd-raghav2-msp"
+  name: "FP123111"
+  featureType:
+    id: "SAP HANA"
+    categoryId: null
+    description: null
+    services: null
+  serviceBindings: null
