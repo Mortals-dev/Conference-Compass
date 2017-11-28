@@ -298,3 +298,12 @@
     description: null
     services: null
   serviceBindings: null
+- configuration: null
+  id: "f62e105f-ffb5-44db-8371-25f19e232fee"
+  name: "FP123111"
+  featureType:
+    id: "User Feedback"
+    categoryId: null
+    description: null
+    services: null
+  serviceBindings: null
